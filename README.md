@@ -1,2 +1,2 @@
 # postgresql-guide
-some basics 
+ docs - https://www.postgresql.org/docs/13/datatype.html
